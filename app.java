@@ -1,3 +1,4 @@
+
 public class Main {
    public static void main(String[] args) {
        System.out.println("Hello World");
@@ -5,4 +6,7 @@ public class Main {
 }
 //sample java code1
 //sample java code2
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
