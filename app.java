@@ -8,3 +8,5 @@ public class Main {
 //sample java code2
 //learning merge conflicts
 //learning github 
+//understanding merge & fetch concepts
+
