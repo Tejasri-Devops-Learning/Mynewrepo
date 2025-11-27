@@ -6,7 +6,5 @@ public class Main {
 }
 //sample java code1
 //sample java code2
-<<<<<<< Updated upstream
+//learning merge conflicts
 
-=======
->>>>>>> Stashed changes
