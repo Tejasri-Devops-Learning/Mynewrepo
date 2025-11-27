@@ -6,10 +6,5 @@ public class Main {
 }
 //sample java code1
 //sample java code2
-<<<<<<< Updated upstream
 //learning merge conflicts
-
-=======
 //learning github 
-//
->>>>>>> Stashed changes
